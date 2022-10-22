@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+    color: steelblue;
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul li {
+    cursor: crosshair;
+}
+
+.done {
+    text-decoration: line-through;
+    font-size: 20px;
+    color: purple;
+}
